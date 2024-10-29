@@ -1,0 +1,13 @@
+.button-main {
+  color: white;
+  background-color: #369d55;
+  padding: 15px 25px;
+  transition: background-color 0.3s;
+  font-weight: bold;
+  border-radius: 50px;
+  font-family: Helvetica, sans-serif;
+}
+
+.button-main:hover {
+  background-color: #51ba72;
+}

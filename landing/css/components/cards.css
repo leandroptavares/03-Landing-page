@@ -1,0 +1,26 @@
+.cards-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  border: solid rgba(212, 211, 211, 0.348);
+  box-shadow: 0.1em 0.2em rgb(230, 230, 230);
+  width: 13%;
+  padding: 1em;
+  margin: 2em;
+}
+
+.card img {
+  width: 8em;
+}
+
+.card h3 {
+  font-size: 1em;
+}
+
+.card p {
+  font-size: 1em;
+  opacity: .7;
+}
